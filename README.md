@@ -1,2 +1,75 @@
-# logic-gates-cheatsheet
-This is a logic gate README cheatsheet for my girlfriend but you can use it too if you want :)
+<div align="center">
+    <h2> 🖥️ Logic Gates</h2>
+</div>
+
+---
+
+## 🔑 Key:
+    [ 0 ] = False 
+    [ 1 ] = True
+
+---
+
+### 🔓 AND: 
+| Input 1 | Input 2 | Output |
+|:-------:|:-------:|:------:|
+|    0    |    0    |   0    |
+|    1    |    0    |   0    |
+|    0    |    1    |   0    |
+|    1    |    1    |   1    |
+
+---
+
+### 🔒 OR:
+
+| Input 1 | Input 2 | Output |
+|:-------:|:-------:|:-----:|
+|    0    |    0    |   0   |
+|    1    |    0    |   1   |
+|    0    |    1    |   1   |
+|    1    |    1    |   0   |
+
+---
+
+### 🔐 XOR:
+
+| Input 1 | Input 2 | Output |
+|:-------:|:-------:|:-----:|
+|    0    |    0    |   0   |
+|    1    |    0    |   1   |
+|    0    |    1    |   1   |
+|    1    |    1    |   0   |
+
+---
+
+### 🔏 NAND:
+
+| Input 1 | Input 2 | Output |
+|:-------:|:-------:|:------:|
+|    0    |    0    |   1    |
+|    1    |    0    |   1    |
+|    0    |    1    |   1    |
+|    1    |    1    |   0    |
+
+---
+
+### 🔓 NOR:
+| Input 1 | Input 2 | Output |
+|:-------:|:-------:|:-----:|
+|    0    |    0    |   1   |
+|    1    |    0    |   0   |
+|    0    |    1    |   0   |
+|    1    |    1    |   0   |
+
+---
+
+### 🔒 XNOR:
+| Input 1 | Input 2 | Output |
+|:-------:|:-------:|:------:|
+|    0    |    0    |   1    |
+|    1    |    0    |   0    |
+|    0    |    1    |   0    |
+|    1    |    1    |   1    |
+
+---
+💕 made with love
